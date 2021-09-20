@@ -3,7 +3,7 @@
     <translationContributors>nagor</translationContributors>
     <texts>
 		<text name="store_warehouse" text="Склад"/>
-		<text name="store_shed" text="Навес"/>
+		<text name="store_shed" text="Стеллажи"/>
 		<text name="function_warehouse" text="Автоматический склад для поддонов большинства типов. Вмещает 264 поддона и имеет размеры примерно 31 x 52 м."/>
 		<text name="function_shed" text="Автоматическое хранилище для поддонов большинства типов. Вмещает 48 поддонов и имеет размеры примерно 12 х 26 м."/>
 		<text name="item_rack_0" text="Секция 1, Стеллаж 1"/>
